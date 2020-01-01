@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+Welcome to Superger's space
 
-You can use the [editor on GitHub](https://github.com/suaidan/suaidan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 说明
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+网站将会包含技术分享、生活经验分享、资源分享和自己的一些游戏，目前各模块正在开发中。
 
 ```markdown
-Syntax highlighted code block
+技术分享包括.NET、C#、windows桌面开发、游戏开发、前端；
+生活经验分享就是一些碎碎念，个人感触比较多；
+资源分享不包括违禁资源或者你懂的资源。
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/suaidan/suaidan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[豫ICP备17011901号](http://www.beian.gov.cn/portal/registerSystemInfo)
